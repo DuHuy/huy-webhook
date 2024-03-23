@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<QLSach>
+  <sach masach="s2">
+    <tensach>XML </tensach>
+    <soluong>23</soluong>
+    <dongia>3324</dongia>
+  </sach>
+  <sach masach="s3">
+    <tensach>HTML</tensach>
+    <soluong>435</soluong>
+    <dongia>4354</dongia>
+  </sach>
+  <sach masach="s4">
+    <tensach>SQL Server</tensach>
+    <soluong>23</soluong>
+    <dongia>324</dongia>
+  </sach>
+  <sach masach="s5">
+    <tensach>Lập trình Java</tensach>
+    <soluong>34</soluong>
+    <dongia>324</dongia>
+  </sach>
+  <sach masach="s6">
+    <tensach>1221</tensach>
+    <soluong>3</soluong>
+    <dongia>1212</dongia>
+  </sach>
+  <sach masach="">
+    <tensach>
+    </tensach>
+    <soluong>
+    </soluong>
+    <dongia>
+    </dongia>
+  </sach>
+</QLSach>

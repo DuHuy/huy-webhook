@@ -1,0 +1,20 @@
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\bin\Debug\Quan-Ly-Sach.exe.config
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\bin\Debug\Quan-Ly-Sach.exe
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\bin\Debug\Quan-Ly-Sach.pdb
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.csproj.AssemblyReference.cache
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan_Ly_Sach.Form1.resources
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan_Ly_Sach.Properties.Resources.resources
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.csproj.GenerateResource.cache
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.csproj.CoreCompileInputs.cache
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.exe
+F:\Lập Trình C#\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.pdb
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\bin\Debug\Quan-Ly-Sach.exe.config
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\bin\Debug\Quan-Ly-Sach.exe
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\bin\Debug\Quan-Ly-Sach.pdb
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.csproj.AssemblyReference.cache
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan_Ly_Sach.Form1.resources
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan_Ly_Sach.Properties.Resources.resources
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.csproj.GenerateResource.cache
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.csproj.CoreCompileInputs.cache
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.exe
+F:\CSao\Quan-Ly-Sach\Quan-Ly-Sach\obj\Debug\Quan-Ly-Sach.pdb

@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<xs:schema id="Sach"
+    targetNamespace="http://tempuri.org/Sach.xsd"
+    elementFormDefault="qualified"
+    xmlns="http://tempuri.org/Sach.xsd"
+    xmlns:mstns="http://tempuri.org/Sach.xsd"
+    xmlns:xs="http://www.w3.org/2001/XMLSchema"
+>
+	<xs:element name ="QLSach">
+		<xs:complexType>
+			<xs:sequence>
+				<xs:element name ="Sach" type ="K_Sach" minOccurs ="1" maxOccurs ="unbounded"/>
+			</xs:sequence>
+		</xs:complexType>
+	</xs:element>
+	<xs:complexType name ="K_Sach">
+		<xs:sequence>
+			<xs:element name ="TenSach" type ="xs:string"/>
+			<xs:element name ="Soluong" type ="xs:int"/>
+			<xs:element name ="Dongia" type ="xs:float"/>
+		</xs:sequence>
+		<xs:attribute name ="MaS" type ="xs:ID" use ="required"/>
+	</xs:complexType>
+</xs:schema>
